@@ -226,9 +226,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				374D1B4415CD641300A2BE7E /* DQSlideshow.m in Sources */,
-				374D1AFB15CD4E4200A2BE7E /* main.m in Sources */,
 				374D1AFF15CD4E4200A2BE7E /* DQAppDelegate.m in Sources */,
 				374D1B4715CD64A400A2BE7E /* DQViewController.m in Sources */,
+				374D1AFB15CD4E4200A2BE7E /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
