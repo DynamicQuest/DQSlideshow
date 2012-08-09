@@ -122,7 +122,7 @@
 							 newY = imageview.frame.origin.y - heightdiff;
 						 }
 						 else {
-							 newY = imageview.frame.origin.y - 50;
+							 newY = imageview.frame.origin.y - heightdiff ;
 							 sizeMult = 1.4;
                          }
 												 
@@ -143,7 +143,7 @@
 							 newY = imageview.frame.origin.y - heightdiff;
 						 }
 						 else {
-							 newY = imageview.frame.origin.y + 20;
+							 newY = imageview.frame.origin.y + (heightdiff / 2);
                              if (arc4random() % 3 == 0) {
                                  sizeMult = 1.4;
                              }
